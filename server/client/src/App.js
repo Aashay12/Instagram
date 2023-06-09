@@ -2,16 +2,16 @@ import "./App.css";
 
 import { BrowserRouter, Route, Switch, useHistory } from "react-router-dom";
 import React, { createContext, useContext, useEffect, useReducer } from "react";
-import { initialState, reducer } from "./reducers/userReducer";
+import { initialState, reducer } from "./reducers/userReducer.js";
 
-import CreatePost from "./components/screens/CreatePost";
-import Home from "./components/screens/Home";
-import Myfeed from "./components/screens/SubscribedPosts";
-import NavBar from "./components/Navbar";
-import Profile from "./components/screens/Profile";
-import Signin from "./components/screens/Signin";
-import Signup from "./components/screens/Signup";
-import UserProfile from "./components/screens/UserProfile";
+import CreatePost from "./components/screens/CreatePost.js";
+import Home from "./components/screens/Home.js";
+import Myfeed from "./components/screens/SubscribedPosts.js";
+import NavBar from "./components/Navbar.js";
+import Profile from "./components/screens/Profile.js";
+import Signin from "./components/screens/Signin.js";
+import Signup from "./components/screens/Signup.js";
+import UserProfile from "./components/screens/UserProfile.js";
 
 export const UserContext = createContext();
 

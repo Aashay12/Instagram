@@ -5,7 +5,7 @@ import "../../App.css";
 
 import React, { useContext, useEffect, useState } from "react";
 
-import { UserContext } from "../../App";
+import { UserContext } from "../../App.js";
 
 const Profile = () => {
   const [mypics, setPic] = useState([]);

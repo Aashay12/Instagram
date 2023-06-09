@@ -4,7 +4,7 @@
 import React, { useContext, useEffect, useState } from "react";
 
 import { Link } from "react-router-dom";
-import { UserContext } from "../../App";
+import { UserContext } from "../../App.js";
 
 const Myfeed = () => {
   const [data, setData] = useState([]);

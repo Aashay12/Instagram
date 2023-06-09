@@ -5,7 +5,7 @@ import "../../App.css";
 
 import React, { useContext, useEffect, useState } from "react";
 
-import { UserContext } from "../../App";
+import { UserContext } from "../../App.js";
 import { useParams } from "react-router-dom";
 
 const UserProfile = () => {

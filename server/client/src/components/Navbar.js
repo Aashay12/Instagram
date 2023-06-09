@@ -2,7 +2,7 @@ import { Link, useHistory } from "react-router-dom";
 import React, { useContext, useEffect, useRef, useState } from "react";
 
 import M from "materialize-css";
-import { UserContext } from "../App";
+import { UserContext } from "../App.js";
 
 //Create a functional component for navbar
 const NavBar = () => {
