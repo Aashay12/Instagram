@@ -21,6 +21,7 @@ Insta Clone is a secure social media web app.
 (User.js)
 - This code defines an Express router that handles routes related to user profiles and interactions. It includes routes for fetching user profiles and their associated posts (/user/:id), following and unfollowing users (/follow and /unfollow), updating user profile pictures (/updatepic), and searching for users based on email (/searchUser). 
 
+# Client Side
   
 ## Signin Screen
 ### Client Side - 
