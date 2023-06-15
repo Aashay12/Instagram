@@ -1,4 +1,4 @@
-# Mock version of Instagram Application using MERN Stack
+# Instagram Application using MERN Stack
 
 Insta Clone is a secure social media web app. 
 - It resembles Instagram and utilizes React, Node.js, and MongoDB. 
