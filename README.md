@@ -9,9 +9,18 @@ Insta Clone is a secure social media web app.
 
 # How to run the client and the server.
 
-Get into the ./server directory and run
-`$ npm i`
-`$ nodemon app.js`
+## Server startup
+Get into the ./server directory and run:
+
+- `$ npm i`
+- (Make sure you have nodemon setup in your local machine. Nodemon helps for live refresh for the node server)
+- `$ nodemon app.js`
+
+## Client startup
+Get into the ./server/client directory and run:
+
+- `$ npm i`
+- `$ npm start`
 
 # Backend and Authentication
 
