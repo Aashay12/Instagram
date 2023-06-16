@@ -7,6 +7,9 @@ Insta Clone is a secure social media web app.
 - The back-end, built with Node.js, handles user requests and interacts with MongoDB's document-oriented storage.
 - In summary, Insta Clone replicates Instagram's core features using React, Node.js, MongoDB, Redux, and Context management.
 
+  ![Instagram HLD](https://github.com/Aashay12/Instagram/assets/32494313/208bba23-6432-465d-96d0-08634c22e764)
+
+
 # How to run the client and the server.
 
 ## Server startup
